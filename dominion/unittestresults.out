@@ -1,0 +1,79 @@
+Result for running dominion unittestresults:
+unittest1.c:
+Unit Test 1: testing supplyCount
+    -test 1 passed
+    -test 2 passed
+    -test 3 passed
+All tests passed.
+File 'dominion.c'
+Lines executed:16.16% of 563
+Creating 'dominion.c.gcov'
+
+unittest2.c:
+Unit Test 2: testing isGameOver
+    -test 1 passed
+    -test 2 passed
+    -test 3 passed
+All tests passed
+File 'dominion.c'
+Lines executed:17.58% of 563
+Creating 'dominion.c.gcov'
+
+unittest3.c:
+Unit Test 3: Testing compare function
+    -test 1 passed
+    -test 2 passed
+    -test 3 passed
+    -test 4 passed
+    -test 5 passed
+All tests passed
+File 'dominion.c'
+Lines executed:15.81% of 563
+Creating 'dominion.c.gcov'
+
+unittest4.c:
+Unit Test 4: Testing getcost function
+    -test 1 passed
+    -test 2 passed
+    -test 3 passed
+All tests passed
+File 'dominion.c'
+Lines executed:21.14% of 563
+Creating 'dominion.c.gcov'
+
+cardtest1.c:
+Card Test 1: testing adventurer
+    -test 1 passed
+    -test 2 failed
+    -testResult is: 0
+File 'dominion.c'
+Lines executed:19.89% of 563
+Creating 'dominion.c.gcov'
+
+cardtest2.c:
+Card Test 2: testing smithy
+    -test 1 passed
+    -test 2 failed
+    -testResult is: 7
+All tests passed.
+File 'dominion.c'
+Lines executed:20.60% of 563
+Creating 'dominion.c.gcov'
+
+cardtest3.c:
+Card Test 3: testing village card
+    -test 1 passed
+    -test 2 passed
+All tests passed.
+File 'dominion.c'
+Lines executed:20.60% of 563
+Creating 'dominion.c.gcov'
+
+cardtest4.c:
+Card Test 4: testing village card
+    -test 1 passed
+All tests passed.
+File 'dominion.c'
+Lines executed:17.58% of 563
+Creating 'dominion.c.gcov'
+
